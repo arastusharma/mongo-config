@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Arastusharma/mongo-config.git
+    repoURL: https://github.com/arastusharma/mongo-config.git
     targetRevision: HEAD
     path: Mongo
   destination: 
